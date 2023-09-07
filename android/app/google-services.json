@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421609505376",
+    "project_id": "testas-c4487",
+    "storage_bucket": "testas-c4487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421609505376:android:fb252077e6af7f9193b905",
+        "android_client_info": {
+          "package_name": "com.As.hjore1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421609505376-piik0koojtb94kfr5hl7hubkl81nt5i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2Ap32mknyxTXGVQHq9HmIsafPxjKQgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421609505376-piik0koojtb94kfr5hl7hubkl81nt5i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
